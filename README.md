@@ -1,4 +1,4 @@
-# AutoShield Insurance - Responsive Landing Page Concept
+# SureLipsum - Responsive Landing Page Concept
 
 A modern, fast, and fully responsive multi-page web application concept designed for automotive insurance providers. This project focuses on providing an optimal user experience across mobile, tablet, and desktop viewports.
 
