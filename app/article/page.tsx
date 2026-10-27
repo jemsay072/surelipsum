@@ -24,9 +24,9 @@ export default function ArticleIndexPage() {
   return (
     <div className="min-h-screen bg-slate-50">
       <PageBanner
-        title='Insurance Tips & Resources'
-        breadcrumbs={[{ label: 'Home', url: '/' }, { label: 'Blog & Tips' }]} 
-        description='Expert driving guidance and coverage optimization frameworks for Illinois motorists.'
+        title='Suspendisse natoque'
+        breadcrumbs={[{ label: 'Home', url: '/' }, { label: 'Article' }]} 
+        description='Orci varius natoque penatibus et magnis dis parturient montes.'
         marginY='mb-0'
       />
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -59,10 +59,10 @@ export default function ArticleIndexPage() {
           </section>
 
           <aside className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm h-fit">
-            <h3 className="font-extrabold text-sm text-blue-900 mb-2">Need Direct Assistance?</h3>
-            <p className="text-[11px] text-slate-500 mb-4 leading-relaxed">Our local Chicago verification staff is active.</p>
-            <a href="tel:7732025060" className="block text-center bg-blue-600 hover:bg-blue-700 text-white font-bold py-2.5 rounded-xl text-xs shadow-sm transition">
-              Call 773-202-5060
+            <h3 className="font-extrabold text-sm text-blue-900 mb-2">Lorem Ipsum Dolor?</h3>
+            <p className="text-[11px] text-slate-500 mb-4 leading-relaxed">Lorem ipsum dolor sit amet, consectetur elit.</p>
+            <a href="tel:8966535624" className="block text-center bg-blue-600 hover:bg-blue-700 text-white font-bold py-2.5 rounded-xl text-xs shadow-sm transition">
+              Call 896-653-5624
             </a>
           </aside>
         </div>

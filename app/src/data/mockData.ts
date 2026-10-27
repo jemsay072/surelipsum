@@ -3,105 +3,105 @@ import { Article, Location, ContactData, FooterData } from "../types";
 export const mockArticlesDatabase: Article[] = [
   {
     id: 5,
-    title: "How to Defog Windshield & Windows in Chicago",
-    date: "July 5, 2026",
-    category: "Driving Local: Chicago Guide",
-    excerpt: "Driving in Chicago can be challenging, especially when the weather gets foggy. Foggy windows and windshields reduce visibility, making it harder to drive safely.",
-    slug: "how-to-defog-windshield-chicago",
+    title: "Praesent bibendum nisi in vestibulum lacinia",
+    date: "Aug 5, 2020",
+    category: "Lorem ipsum dolor: consectetur",
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis nibh ut lobortis tincidunt",
+    slug: "praesent-bibendum-nisi",
     content: [
-      "1. Use the Air Conditioner to Defog Your Windows: One of the most effective ways to defog your windows in Chicago is by using your car's A/C system. Even if it's freezing cold outside, turning on the A/C helps remove moisture from the air inside the vehicle, speeding up the defogging process.",
-      "2. Use the Defrost Setting for Maximum Efficiency: Most modern cars come with a specific defrost button designed to clear windows quickly. Turning this on channels dry, warm air directly to your windshield, helping to clear visibility in a matter of seconds.",
-      "3. Crack the Windows to Balance Temperature: Sometimes, the fastest way to clear a fogged window is to lower the humidity inside the car by cracking the windows slightly. This allows the cold, dry air from outside to circulate and balance out the temperature parameters inside the cabin.",
-      "4. Use Anti-Fog Products for Long Term Protection: If your car windows fog up frequently, consider applying a commercial anti-fog product to the glass surfaces. These treatments create a layer that prevents water droplets from gathering, keeping your glass clear.",
-      "5. Keep Your Car's Interior Clean and Dry: Wet shoes, snow-covered floor mats, or damp umbrellas left inside the vehicle dramatically increase interior humidity levels. Wipe down your mats and keep your glass clean to prevent condensation build-up."
+      "1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis nibh ut lobortis tincidunt. Praesent bibendum nisi in vestibulum lacinia. Phasellus vel ullamcorper magna, id gravida nibh. Quisque elit justo, blandit et nulla ut, mollis sollicitudin tellus. Pellentesque luctus arcu in ipsum blandit, ac sodales purus faucibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse eu malesuada ligula. Donec lacinia ante tellus.",
+      "2. Nunc nec ipsum tellus. Sed dapibus tortor id mauris interdum sagittis. Morbi mollis odio vel ex scelerisque, at pellentesque sem pharetra. Sed et felis fringilla, ullamcorper nisi id, malesuada diam. Donec vehicula imperdiet tellus. Sed rutrum nulla at libero ultrices scelerisque. Integer elit massa, placerat nec diam ut, ornare mattis ex.",
+      "3. Aliquam gravida convallis elit non consectetur. Duis lectus metus, tristique quis egestas non, dapibus bibendum lacus. Maecenas sollicitudin ligula vitae quam lacinia, condimentum cursus sapien ultricies. Phasellus euismod bibendum tellus quis euismod. Pellentesque pellentesque varius ipsum, eget pharetra mauris sodales ut. Pellentesque euismod augue lorem, efficitur lacinia lacus cursus eu.",
+      "4. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis mattis scelerisque nisl ac malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "5. Ut faucibus augue ex. Proin consequat porta pretium. Donec rhoncus leo ac sem tempus, vel placerat lectus ornare. Sed quis enim vehicula, convallis risus aliquam, iaculis leo."
     ],
     faqs: [
       {
-        question: "Why do my windows fog up in the winter in Chicago?",
-        answer: "Windows fog up due to temperature differentials and moisture. The warm air from your breath and body meets the freezing glass from the outside cold, causing instant condensation."
+        question: "Aliquam gravida convallis elit non consectetur?",
+        answer: "Phasellus euismod bibendum tellus quis euismod. Pellentesque pellentesque varius ipsum, eget pharetra mauris sodales ut"
       },
       {
-        question: "How can I prevent fogging in my car overnight?",
-        answer: "Ensure no damp items or umbrellas are left inside the cabin overnight, and consider using moisture-absorbing packets on your dashboard."
+        question: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas?",
+        answer: "Duis mattis scelerisque nisl ac malesuada."
       }
     ]
   },
   {
     id: 4,
-    title: "What Does Property Damage Liability Cover for Chicago Drivers?",
-    date: "July 4, 2026",
-    category: "Coverages",
-    excerpt: "For Chicago drivers, property damage liability is a critical aspect of your auto insurance. If you're involved in an accident, this coverage helps pay for damages you cause to other property.",
-    slug: "property-damage-liability-chicago",
+    title: "Aliquam porta purus a bibendum vehicula?",
+    date: "Aug 4, 2020",
+    category: "Donec lacinia",
+    excerpt: "Donec lacinia eros in efficitur maximus. Cras suscipit libero sit amet enim iaculis commodo. Nulla ultrices venenatis mi a condimentum.",
+    slug: "donec-lacinia-eros-in",
     content: [
-      "1. What is Property Damage Liability? Property damage liability covers the costs associated with repairing or replacing property owned by others that you damage in an auto accident where you are found at fault.",
-      "2. How Much Property Damage Liability Do You Need in Chicago? The state of Illinois enforces clear minimum limits for motorists. Drivers must carry at least $15,000 in property damage liability to remain legally compliant on public roads.",
-      "3. How Does Property Damage Liability Affect Your Insurance Premium? Maintaining adequate limits ensures financial protection. Clean driving records help manage these monthly rate structures efficiently without unexpected overhead.",
-      "4. What is Not Covered by Property Damage Liability? Property damage liability strictly covers the other party's assets. It will never cover repairs for your own vehicle or personal property—you need collision coverage for that.",
-      "5. Steps to Take After Causing Property Damage in Chicago: Document the scene immediately, exchange accurate policy identifiers with the affected party, and notify your insurance representative right away to process verification logs."
+      "1. Donec mi diam, dapibus tincidunt congue ac, finibus vel tortor. Praesent quam quam, dictum iaculis feugiat et, vehicula non quam.",
+      "2. Nulla ut leo nec eros scelerisque iaculis at in arcu. Vestibulum at elementum ex.",
+      "3. Proin nisl augue, ullamcorper eget congue eget, varius quis metus. Vestibulum venenatis vehicula ex, vitae commodo nibh imperdiet eu.",
+      "4. Pellentesque tristique rhoncus ultricies. Maecenas vestibulum mauris nisl, sed porta libero lacinia non.",
+      "5. Nam ultrices vestibulum suscipit. Aenean nulla nunc, blandit vel tincidunt vitae, elementum nec tellus."
     ],
     faqs: [
       {
-        question: "What's the minimum property damage liability coverage in Illinois?",
-        answer: "The legal minimum requirement in the state of Illinois is currently $15,000 for property damage liability."
+        question: "Duis sed tortor aliquet, hendrerit nulla sit amet?",
+        answer: "Euismod ex. Sed ante quam, bibendum vel porttitor eu, pretium id neque."
       },
       {
-        question: "Does property damage liability cover windshields?",
-        answer: "It covers the other party's windshield if you cause the accident, but it does not cover your own vehicle's glass damage."
+        question: "Aliquam tempor nunc nisi, vitae aliquet sapien auctor vel.",
+        answer: "Nulla ut leo nec eros scelerisque iaculis at in arcu. Vestibulum at elementum ex."
       }
     ]
   },
   {
     id: 3,
-    title: "How to Get an Instant Car Insurance Quote in Chicago",
-    date: "July 3, 2026",
-    category: "Affordability",
-    excerpt: "Getting an instant car insurance quote is easier than ever, especially for Chicago drivers. Learn how to compare options efficiently.",
-    slug: "instant-car-insurance-quote-chicago",
+    title: "Aliquam gravida convallis elit non consectetur",
+    date: "Aug 3, 2020",
+    category: "Praesent",
+    excerpt: "Phasellus vel ullamcorper magna, id gravida nibh",
+    slug: "aliquam-gravida-convallis-elot-non",
     content: [
-      "1. Gather Your Vehicle and Personal Information: To receive an accurate premium estimate, prepare your vehicle identification number (VIN), driver's license history, and typical daily commuting distance parameters beforehand.",
-      "2. Use Online Tools to Compare Instant Quotes: Utilize centralized conversion comparison platforms to evaluate different policies side-by-side. This ensures you find coverage thresholds that match your family budget criteria.",
-      "3. Customize Your Coverage Based on Your Needs: Balance your monthly expenses by adjusting deductibles and adding secondary protection items like comprehensive coverage if your vehicle asset requires it.",
-      "4. Get Your Instant Quote in Just Minutes: Modern digital underwriting systems process your demographic data instantly, generating clean, official premium structures without manual delay thresholds.",
-      "5. Contact a Local Agent for Personalized Help: Once you have an initial calculation, sync up with a local representative to confirm active promotional discounts and complete your safe policy activation workflow."
+      "1. Nunc nec ipsum tellus. Sed dapibus tortor id mauris interdum sagittis",
+      "2. Morbi mollis odio vel ex scelerisque, at pellentesque sem pharetra. Sed et felis fringilla, ullamcorper nisi id, malesuada diam.",
+      "3. Donec vehicula imperdiet tellus. Sed rutrum nulla at libero ultrices scelerisque. Integer elit massa, placerat nec diam ut, ornare mattis ex.",
+      "4. Aliquam gravida convallis elit non consectetur. Duis lectus metus, tristique quis egestas non, dapibus bibendum lacus.",
+      "5. Maecenas sollicitudin ligula vitae quam lacinia, condimentum cursus sapien ultricies. Phasellus euismod bibendum tellus quis euismod."
     ],
     faqs: [
       {
-        question: "How long does it take to get an instant car insurance quote in Chicago?",
-        answer: "With our streamlined digital configuration tools, you can receive an official auto insurance quote in less than 2 minutes."
+        question: "Pellentesque pellentesque varius ipsum, eget pharetra mauris sodales ut?",
+        answer: "Pellentesque euismod augue lorem, efficitur lacinia lacus cursus eu."
       },
       {
-        question: "Is it better to compare quotes from multiple providers?",
-        answer: "Yes, evaluating options ensures you capture the lowest available premium thresholds for your specific driving history profile."
+        question: "Duis mattis scelerisque nisl ac malesuada.",
+        answer: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas?"
       }
     ]
   },
   {
     id: 2,
-    title: "How to File Car Insurance Claims in Chicago",
-    date: "July 2, 2026",
-    category: "Affordability",
-    excerpt: "Filing a car insurance claim can feel overwhelming, but understanding the process can help make it much easier. Whether you’re dealing with a minor fender-bender or a more serious accident, knowing how to navigate your car insurance claim can",
-    slug: "how-to-file-car-insurance-claims-in-chicago",
+    title: "Ut faucibus augue ex",
+    date: "Aug 2, 2020",
+    category: "Proin consequat",
+    excerpt: "Donec rhoncus leo ac sem tempus, vel placerat lectus ornare. Sed quis enim vehicula, convallis risus aliquam, iaculis leo.",
+    slug: "ut-faucibus-augue-ex",
     content: [
-      "1. Ensure Safety and Document the Scene: The first step in filing a car insurance claim is ensuring safety. After any accident, it’s important to check for injuries and call emergency services if needed. Once you’ve taken care of any injuries, you’ll want to take steps to protect yourself and gather evidence.",
-      "2. Notify Your Insurance Company and Initiate the Claim: Once you’re safe and have all the necessary documentation, it’s time to contact your insurer. In Illinois, it’s essential to inform your insurance company promptly about the accident, even if it wasn’t your fault.",
-      "3. Work with the Insurance Adjuster: The insurance adjuster will review the details of your claim to assess the extent of the damage and the costs involved. This step is critical, as it determines how much compensation you’ll receive for repairs or replacements.",
-      "4. Get an Estimate and Review the Settlement Offer: Once the investigation is complete, your insurance company will provide you with a settlement offer based on their findings. They may also ask for an official repair estimate from a body shop or give you the option of working with one of their preferred network shops.",
-      "5. Repair or Replace Your Car: Once the claim is settled, you can proceed with repairs or replacing your vehicle, depending on the severity of the damage. If your car is repairable, you’ll work with a repair shop to restore it to its pre-accident condition."
+      "1. In sit amet nibh quis mi aliquet fringilla id vel tellus. Vivamus in turpis varius, sollicitudin dolor ac, vestibulum odio. ",
+      "2. Donec auctor tristique risus, eu ultrices justo tristique at. Vivamus nec placerat sapien, vel condimentum enim. In eget velit eu dui efficitur eleifend vitae a lorem.",
+      "3. Aliquam porta purus a bibendum vehicula. Donec lacinia eros in efficitur maximus. Cras suscipit libero sit amet enim iaculis commodo. Nulla ultrices venenatis mi a condimentum.",
+      "4. Donec mi diam, dapibus tincidunt congue ac, finibus vel tortor. Praesent quam quam, dictum iaculis feugiat et, vehicula non quam. Nulla ut leo nec eros scelerisque iaculis at in arcu. Vestibulum at elementum ex.",
+      "5. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis nibh ut lobortis tincidunt. Praesent bibendum nisi in vestibulum lacinia. Phasellus vel ullamcorper magna, id gravida nibh."
     ],
     faqs: [
       {
-        question: "What’s the minimum auto insurance required in Illinois?",
-        answer: "Illinois law requires all drivers to carry $25,000 for bodily injury per person, $50,000 per accident, and $20,000 for property damage. This basic liability coverage can be increased for better protection. Learn more about Illinois minimum car insurance requirements."
+        question: "Nam ultrices vestibulum suscipit?",
+        answer: "Aenean nulla nunc, blandit vel tincidunt vitae, elementum nec tellus. Duis sed tortor aliquet."
       },
       {
-        question: "How long does it take to get a settlement after filing a car insurance claim in Chicago?",
-        answer: "The time it takes to settle a claim varies based on the complexity of the case, but most claims are settled within 30 days. If the claim involves significant damage or complex liability issues, it could take longer."
+        question: "Hendrerit nulla sit amet, euismod ex",
+        answer: "Sed ante quam, bibendum vel porttitor eu, pretium id neque."
       },
       {
-        question: "Do I have to pay my deductible when filing a claim for a minor accident?",
-        answer: "Yes, you’ll need to pay your deductible when filing a claim, regardless of the accident’s severity. Your deductible is subtracted from your payout for repairs or vehicle replacement. For a minor accident, the repair costs might only slightly exceed the deductible."
+        question: "Aliquam tempor nunc nisi, vitae aliquet sapien auctor vel?",
+        answer: "Pellentesque luctus arcu in ipsum blandit, ac sodales purus faucibus."
       }
     ]
   },
@@ -110,62 +110,62 @@ export const mockArticlesDatabase: Article[] = [
 export const mockLocationsDatabase: Location[] = [
   {
       id: 1,
-      name: "Corporate Headquarters",
-      address: "5440 N Cumberland Ave, Chicago, IL 60656, United States",
-      phone: "(773) 202-5060",
+      name: "Location Alpha",
+      address: "123 Lorem Ipsum St, Dolor City, ST 12345, United States",
+      phone: "(123) 456-7890",
       hours: "Mon-Fri: 9:00 AM - 5:00 PM",
-      city: "Chicago"
+      city: "Alpha"
   },
   {
       id: 2,
-      name: "Chicago, IL South",
-      address: "8537 S Cicero Ave, Chicago, IL 60652, United States",
-      phone: "(773) 202-5060",
+      name: "Location Beta",
+      address: "456 Consectetur Rd, Adipiscing Town, ST 67890, United States",
+      phone: "(123) 456-7891",
       hours: "Mon-Fri: 9:00 AM - 5:00 PM",
-      city: "Chicago"
+      city: "Beta"
   },
   {
       id: 3,
-      name: "Berwyn, IL",
-      address: "7001 W Roosevelt Rd, Berwyn, IL 60402, United States",
-      phone: "(708) 484-7400",
+      name: "Location Gamma",
+      address: "789 Eiusmod Ave, Tempor Village, ST 11223, United States",
+      phone: "(123) 456-7892",
       hours: "Mon-Fri: 9:00 AM - 5:00 PM",
-      city: "Berwyn"
+      city: "Gamma"
   },
   {
       id: 4,
-      name: "Melrose Park, IL",
-      address: "1907 N Mannheim Rd, Melrose Park, IL 60164, United States",
-      phone: "(708) 345-1000",
+      name: "Location Delta",
+      address: "101 Incididunt St, Labore City, ST 44556, United States",
+      phone: "(123) 456-7893",
       hours: "Mon-Fri: 9:00 AM - 5:00 PM",
-      city: "Melrose Park"
+      city: "Delta"
   }
 ];
 
 export const mockContactDatabase: ContactData = {
-  title: "Contact Us",
-  description: "Call us at 773-202-5060 or try our Location Finder to find the Insure on the Spot location nearest you!",
-  phoneNumber: "773-202-5060",
+  title: "Pellentesque",
+  description: "Call us at 123-456-7890 or try our Location Finder to find the Lorem Ipsum branch nearest you!",
+  phoneNumber: "123-456-7890",
   locationFinderText: "Location Finder",
   departments: [
     {
-      title: "Customer Service",
+      title: "Proin consequat",
       schedule: ["Monday- Friday 8am-8pm", "Saturday 8am-5pm"],
     },
     {
-      title: "Sales",
+      title: "Pellentesque",
       schedule: ["Monday- Friday 8am-8:30pm", "Saturday 8am-5:30pm"],
     },
   ],
-  promoTitle: "Get a Free Quote »",
+  promoTitle: "Action Button »",
   promoDetails: [
-    { text: "Free $100 AMAZON Gift Card", isBold: true },
-    { text: "Refer Friends & Family" },
-    { text: "Mention Your Client Code" },
-    { text: "Policy starts- get a $100 gift card" },
+    { text: "Lorem Ipsum Dolor Sit Amet", isBold: true },
+    { text: "Consectetur Adipiscing Elit" },
+    { text: "Sed Do Eiusmod Tempor Incididunt" },
+    { text: "Ut Labore Et Dolore Magna" },
   ],
-  careersText: "Interested in working with a constantly growing and exciting organization in the Chicago land area?",
-  careersLinkText: "Click Here for Employment Opportunities!",
+  careersText: "Aliquam porta purus a bibendum vehicula, Donec lacinia eros in efficitur maximus.",
+  careersLinkText: "Donec rhoncus leo ac sem tempus!",
   images: {
     sideAgent: "/images/agent-side.png",
     bottomGroup: "/images/group-banner.png",
@@ -175,38 +175,38 @@ export const mockContactDatabase: ContactData = {
 export const footerData: FooterData = {
   categories: [
     {
-      title: "SERVICES",
+      title: "Vestibulum",
       links: [
-        { label: "Auto Insurance", url: "#auto" },
-        { label: "SR22 Insurance", url: "#sr22" },
-        { label: "Motorcycle Insurance", url: "#motorcycle" },
-        { label: "Commercial Vehicle Insurance", url: "#commercial" },
+        { label: "Feature One", url: "#feat1" },
+        { label: "Feature Two", url: "#feat2" },
+        { label: "Feature Three", url: "#feat3" },
+        { label: "Feature Four", url: "#feat4" },
       ],
     },
     {
-      title: "OUR LOCATIONS",
+      title: "Aliquam",
       links: [
-        { label: "Corporate Headquarters", url: "#hq" },
-        { label: "Chicago, IL South Branch", url: "#chicago-south" },
-        { label: "Berwyn Office Location", url: "#berwyn" },
-        { label: "Melrose Park Facility", url: "#melrose-park" },
+        { label: "Main Headquarter", url: "#mhq" },
+        { label: "Location Alpha", url: "#locA" },
+        { label: "Location Beta", url: "#locB" },
+        { label: "Location Gamma", url: "#locG" },
       ],
     },
     {
-      title: "NEED ASSISTANCE?",
+      title: "Consectetur",
       links: [
-        { label: "Easy Payment Options", url: "#payments" },
-        { label: "Report an Active Claim", url: "#claims" },
-        { label: "Frequently Asked Questions", url: "#faqs" },
-        { label: "Corporate Contact Desk", url: "#corporate" },
+        { label: "Support Center", url: "#support" },
+        { label: "Documentation", url: "#docs" },
+        { label: "FAQ", url: "#faqs" },
+        { label: "Contact Support", url: "#contact" },
       ],
     },
   ],
   rateCheck: {
-    title: "INSTANT RATE CHECK",
-    description: "Calculate your local premium instantly. Trusted across Illinois since 1988.",
-    placeholder: "Enter Zip Code",
-    buttonText: "GET RATE ESTIMATE",
+    title: "SUBSCRIBE NOW",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor.",
+    placeholder: "Enter Email Address",
+    buttonText: "Action Button",
   },
 };
 

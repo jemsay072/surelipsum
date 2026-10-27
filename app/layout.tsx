@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Insure On The Spot | Chicago Auto Insurance Agency",
-  description: "Affordable auto and SR22 insurance options across Chicago, Illinois.",
+  title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+  description: "Nullam convallis nibh ut lobortis tincidunt.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode; }) {

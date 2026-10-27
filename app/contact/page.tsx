@@ -11,8 +11,8 @@ const ContactPage:React.FC = () => {
         <section className="bg-slate-50 min-h-screen text-slate-700 font-sans pb-16">
             {/* Page Banner */}
             <PageBanner 
-                title="Get in Touch" 
-                description="We are here to assist you with your auto insurance needs. Reach out to our teams today."
+                title="Aliquam gravida" 
+                description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Reach out to our teams today."
                 breadcrumbs={[{ label: 'Home', url: '/' }, { label: 'Contact Us' }]} 
             />
 
@@ -81,7 +81,7 @@ const ContactPage:React.FC = () => {
                     </div>
                 </div>
 
-                {/* Right Column - Agent Image */}
+                {/* Right Column - Agent Image 
                 <div className="flex justify-center md:justify-end">
                     <div className="relative w-full max-w-[220px] bg-sky-50/50 p-3 rounded-2xl border border-slate-100 flex flex-col items-center">
                     <div className="absolute top-2.5 left-3 flex gap-1">
@@ -95,20 +95,20 @@ const ContactPage:React.FC = () => {
                         className="w-full h-auto object-contain rounded-xl mt-3"
                     />
                     </div>
-                </div>
+                </div>*/}
 
                 </div>
 
-                {/* Bottom Banner Section - Group Photo */}
+                {/* Bottom Banner Section - Group Photo 
                 <div className="pt-8 border-t border-slate-100 flex flex-col items-center">
-                <div className="max-w-2xl w-full">
-                    <img 
-                    src={data.images.bottomGroup} 
-                    alt="Insure on the Spot Team" 
-                    className="w-full h-auto object-contain mx-auto rounded-xl shadow-sm border border-slate-100"
-                    />
-                </div>
-                </div>
+                    <div className="max-w-2xl w-full">
+                        <img 
+                        src={data.images.bottomGroup} 
+                        alt="Insure on the Spot Team" 
+                        className="w-full h-auto object-contain mx-auto rounded-xl shadow-sm border border-slate-100"
+                        />
+                    </div>
+                </div>*/}
 
             </div>
 

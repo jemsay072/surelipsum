@@ -17,10 +17,11 @@ const LocationPage = () => {
                     </nav>
 
                     <h1 className="text-4xl md:text-5xl font-black tracking-tight">
-                        Free Auto Insurance Quote in <span className="text-amber-400">2 Minutes!</span>
+                        Lorem Ipsum Dolor Sit Amet <span className="text-amber-400">Consectetur!</span>
                     </h1>
                     <p className="text-slate-300 max-w-2xl mx-auto text-sm md:text-base font-normal">
-                        Lowest Rates in Chicago and the Chicagoland area. We Shop, You Save. Instant SR22 coverage available.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
                     </p>
                     
                     {/* Compact Zip Code Form Box */}
@@ -28,7 +29,7 @@ const LocationPage = () => {
                         <form className="flex flex-col sm:flex-row gap-2">
                             <input 
                                 type="text" 
-                                placeholder="Enter Zip Code" 
+                                placeholder="Sed dapibus" 
                                 className="flex-1 px-4 py-3 rounded-xl text-slate-900 font-semibold placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-amber-500 text-sm"
                                 required
                             />
@@ -36,7 +37,7 @@ const LocationPage = () => {
                                 type="submit" 
                                 className="bg-amber-500 hover:bg-amber-600 text-slate-950 font-black px-6 py-3 rounded-xl transition uppercase tracking-wider text-xs shadow-md whitespace-nowrap"
                             >
-                                Get My Quote &raquo;
+                                Action Button &raquo;
                             </button>
                         </form>
                     </div>
@@ -46,12 +47,13 @@ const LocationPage = () => {
             { /** Main Section */ }
             <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
                 <div className="text-center max-w-3xl mx-auto mb-12 space-y-3">
-                    <h2 className="text-3xl font-black text-slate-900 tracking-tight">Our Locations</h2>
+                    <h2 className="text-3xl font-black text-slate-900 tracking-tight">Lorem Ipsum Locations</h2>
                     <p className="text-sm text-slate-500 leading-relaxed">
-                        Come in and see us! Our friendly staff is here to help. Get a free quote, buy or renew your policy, or make a payment. We have multiple locations throughout the Chicagoland area to serve you.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </p>
                     <div className="inline-block bg-amber-50 border border-amber-200 rounded-xl p-3 text-xs text-amber-800 font-bold mt-2">
-                        🎉 Free $100 Amazon Gift Card when you refer friends & family! Policy starts, get a reward.
+                        🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
+
                     </div>
                 </div>
 
@@ -81,7 +83,7 @@ const LocationPage = () => {
                                         📞 {loc.phone}
                                     </a>
                                     <button className="text-slate-400 font-semibold hover:text-slate-600 transition">
-                                        See Hours & Details &rsaquo;
+                                        Nunc nec ipsum & tellus &rsaquo;
                                     </button>
                                 </div>
                             </div>
